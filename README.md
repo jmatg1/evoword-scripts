@@ -5,6 +5,7 @@ Open this ([link](https://github.com/jmatg1/evoword-scripts/raw/main/zoom-hack.u
 
 Click `Install` and you're done.
 
-#Discord server
-([link](https://discord.gg/9bpBkcADhA))  
+# Discord server  
+[JOIN](https://discord.gg/9bpBkcADhA)  
 ![Discord Shield](https://discord.com/api/guilds/1264857354688528406/widget.png?style=shield)
+
